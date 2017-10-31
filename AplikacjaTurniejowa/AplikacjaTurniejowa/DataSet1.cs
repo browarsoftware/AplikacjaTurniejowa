@@ -1,0 +1,6 @@
+﻿namespace AplikacjaTurniejowa
+{
+}
+namespace AplikacjaTurniejowa
+{
+}

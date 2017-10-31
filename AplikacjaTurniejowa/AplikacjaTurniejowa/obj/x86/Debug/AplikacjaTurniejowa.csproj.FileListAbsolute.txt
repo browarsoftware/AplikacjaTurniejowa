@@ -1,0 +1,25 @@
+E:\Projects\Karate\Aplikacja\AplikacjaTurniejowa\AplikacjaTurniejowa\bin\Debug\System.Data.SQLite.xml
+E:\Projects\Karate\Aplikacja\AplikacjaTurniejowa\AplikacjaTurniejowa\obj\x86\Debug\AplikacjaTurniejowa.csprojResolveAssemblyReference.cache
+E:\Projects\Karate\Aplikacja\AplikacjaTurniejowa\AplikacjaTurniejowa\obj\x86\Debug\AplikacjaTurniejowa.Properties.Resources.resources
+E:\Projects\Karate\Aplikacja\AplikacjaTurniejowa\AplikacjaTurniejowa\obj\x86\Debug\AplikacjaTurniejowa.csproj.GenerateResource.Cache
+E:\Projects\Karate\Aplikacja\AplikacjaTurniejowa\AplikacjaTurniejowa\obj\x86\Debug\RdlCompile.cache
+E:\Projects\Karate\Aplikacja\AplikacjaTurniejowa\AplikacjaTurniejowa\obj\x86\Debug\RdlCompile.compiled
+E:\Projects\Karate\Aplikacja\AplikacjaTurniejowa\AplikacjaTurniejowa\obj\x86\Debug\AplikacjaTurniejowa.GroupsSchedulerForm.resources
+E:\Projects\Karate\Aplikacja\AplikacjaTurniejowa\AplikacjaTurniejowa\obj\x86\Debug\AplikacjaTurniejowa.GroupDetailsForm.resources
+E:\Projects\Karate\Aplikacja\AplikacjaTurniejowa\AplikacjaTurniejowa\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Projects\Karate\Aplikacja\AplikacjaTurniejowa\AplikacjaTurniejowa\bin\Debug\NPOI.dll
+E:\Projects\Karate\Aplikacja\AplikacjaTurniejowa\AplikacjaTurniejowa\bin\Debug\NPOI.OOXML.dll
+E:\Projects\Karate\Aplikacja\AplikacjaTurniejowa\AplikacjaTurniejowa\bin\Debug\NPOI.OpenXml4Net.dll
+E:\Projects\Karate\Aplikacja\AplikacjaTurniejowa\AplikacjaTurniejowa\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\Projects\Karate\Aplikacja\AplikacjaTurniejowa\AplikacjaTurniejowa\bin\Debug\NPOI.xml
+E:\Projects\Karate\Aplikacja\AplikacjaTurniejowa\AplikacjaTurniejowa\obj\x86\Debug\AplikacjaTurniejowa.AddClubForm.resources
+E:\Projects\Karate\Aplikacja\AplikacjaTurniejowa\AplikacjaTurniejowa\obj\x86\Debug\AplikacjaTurniejowa.ManageClubsForm.resources
+E:\Projects\Karate\Aplikacja\AplikacjaTurniejowa\AplikacjaTurniejowa\obj\x86\Debug\AplikacjaTurniejowa.ManageParticipantsForm.resources
+E:\Projects\Karate\Aplikacja\AplikacjaTurniejowa\AplikacjaTurniejowa\obj\x86\Debug\AplikacjaTurniejowa.AddParticipantForm.resources
+E:\Projects\Karate\Aplikacja\AplikacjaTurniejowa\AplikacjaTurniejowa\obj\x86\Debug\AplikacjaTurniejowa.GroupSelectionForm.resources
+E:\Projects\Karate\Aplikacja\AplikacjaTurniejowa\AplikacjaTurniejowa\bin\Debug\Generator List Startowych.exe.config
+E:\Projects\Karate\Aplikacja\AplikacjaTurniejowa\AplikacjaTurniejowa\bin\Debug\Generator List Startowych.exe
+E:\Projects\Karate\Aplikacja\AplikacjaTurniejowa\AplikacjaTurniejowa\bin\Debug\Generator List Startowych.pdb
+E:\Projects\Karate\Aplikacja\AplikacjaTurniejowa\AplikacjaTurniejowa\obj\x86\Debug\Generator List Startowych.exe
+E:\Projects\Karate\Aplikacja\AplikacjaTurniejowa\AplikacjaTurniejowa\obj\x86\Debug\Generator List Startowych.pdb
+E:\Projects\Karate\Aplikacja\AplikacjaTurniejowa\AplikacjaTurniejowa\obj\x86\Debug\AplikacjaTurniejowa.PrintSetupForm.resources
